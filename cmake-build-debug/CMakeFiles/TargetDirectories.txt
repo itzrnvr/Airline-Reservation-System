@@ -1,0 +1,3 @@
+/Users/ranveer/CLionProjects/airline-reservation/cmake-build-debug/CMakeFiles/airline_reservation.dir
+/Users/ranveer/CLionProjects/airline-reservation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ranveer/CLionProjects/airline-reservation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
